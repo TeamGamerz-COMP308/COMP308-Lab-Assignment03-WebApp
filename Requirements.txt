@@ -1,0 +1,24 @@
+express api
+
+crud for students and courses
+
+student model with
+	studentNo,
+	password,
+	fname,
+	lname,
+	address,
+	city,
+	phoneNo,
+	email,
+	rogram
+
+couse model with
+	course code,
+	course name,
+	section,
+	semester
+
+provide authentication using Passport - local strategy
+
+alow students to login, add course, update course, drop course
